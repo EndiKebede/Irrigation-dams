@@ -8,15 +8,6 @@ The project evaluates whether irrigation dams lead to measurable expansion in ir
 
 ---
 
-## Repository Overview
-
-The repository is organized into the following components:
-
-- `code/` — Scripts and notebooks for data processing, analysis, and visualization
-- `outputs/` — Generated figures, tables, and intermediate results
-
----
-
 ## Workflow Overview
 
 The analysis consists of three main steps:
